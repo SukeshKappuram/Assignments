@@ -1,0 +1,264 @@
+id~webId~category~year~make~model~trim~type~price~photo
+new~2014~Chevrolet~SS~4dr Sdn~CAR~0.0
+new~2017~Buick~Enclave~Leather AWD~SUV~45746.0
+new~2017~Buick~Enclave~Leather AWD~SUV~46005.0
+new~2017~Buick~Enclave~Premium AWD~SUV~52847.0
+new~2017~Buick~Enclave~Premium AWD~SUV~53282.0
+new~2017~Buick~Enclave~Premium AWD~SUV~54120.0
+new~2017~Buick~Encore~Sport Touring FWD~SUV~26236.0
+new~2017~Buick~Encore~Sport Touring FWD~SUV~26791.0
+new~2017~Buick~Encore~Preferred II FWD~SUV~27503.0
+new~2017~Buick~Encore~Sport Touring AWD~SUV~27698.0
+new~2017~Buick~Encore~Premium AWD~SUV~33766.0
+new~2017~Buick~Envision~FWD 4dr Preferred~SUV~35559.0
+new~2017~Buick~Envision~AWD 4dr Preferred~SUV~37344.0
+new~2017~Buick~Envision~AWD 4dr Premium II~SUV~47508.0
+new~2017~Buick~LaCrosse~FWD Preferred~CAR~36473.0
+new~2017~Buick~LaCrosse~FWD Preferred~CAR~36566.0
+new~2017~Buick~LaCrosse~FWD Essence~CAR~40243.0
+new~2017~Buick~LaCrosse~FWD Premium~CAR~43476.0
+new~2017~Buick~LaCrosse~FWD Premium~CAR~47463.0
+new~2017~Buick~Regal~Sport Touring FWD~CAR~30227.0
+new~2017~Chevrolet~Camaro~2dr Cpe 1LT~CAR~28000.0
+new~2017~Chevrolet~Camaro~2dr Cpe 1LT~CAR~30662.0
+new~2017~Chevrolet~Camaro~2dr Cpe 1LT~CAR~31461.0
+new~2017~Chevrolet~Camaro~2dr Cpe 1LT~CAR~32045.0
+new~2017~Chevrolet~Camaro~2dr Cpe 1LT~CAR~32409.0
+new~2017~Chevrolet~Camaro~2dr Cpe 2LT~CAR~36041.0
+new~2017~Chevrolet~Camaro~2dr Cpe 2LT~CAR~37235.0
+new~2017~Chevrolet~Camaro~2dr Cpe 2LT~CAR~37304.0
+new~2017~Chevrolet~Camaro~2dr Cpe 2SS~CAR~47494.0
+new~2017~Chevrolet~Camaro~2dr Cpe 2SS~CAR~48184.0
+new~2017~Chevrolet~Camaro~2dr Cpe 2SS~CAR~48490.0
+new~2017~Chevrolet~City Express Cargo Van~FWD 115&quot; LT~CARGO VAN~23898.0
+new~2017~Chevrolet~Colorado~Extended Cab Long Box 2-Wheel Drive Base~TRUCK~20895.0
+new~2017~Chevrolet~Colorado~Crew Cab Short Box 4-Wheel Drive WT~TRUCK~33286.0
+new~2017~Chevrolet~Colorado~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~39220.0
+new~2017~Chevrolet~Corvette~Grand Sport Coupe 3LT~CAR~78291.0
+new~2017~Chevrolet~Cruze~Sedan LS (Automatic)~CAR~20400.0
+new~2017~Chevrolet~Cruze~Hatchback LT (Automatic)~CAR~23945.0
+new~2017~Chevrolet~Cruze~Hatchback LT (Automatic)~CAR~24340.0
+new~2017~Chevrolet~Cruze~Hatchback LT (Automatic)~CAR~24640.0
+new~2017~Chevrolet~Cruze~Sedan LT (Automatic)~CAR~25060.0
+new~2017~Chevrolet~Cruze~Sedan LT (Automatic)~CAR~25665.0
+new~2017~Chevrolet~Cruze~Sedan LT (Automatic)~CAR~25665.0
+new~2017~Chevrolet~Cruze~Sedan LT (Automatic)~CAR~26060.0
+new~2017~Chevrolet~Cruze~Sedan Premier~CAR~28205.0
+new~2017~Chevrolet~Cruze~Hatchback Premier~CAR~29465.0
+new~2017~Chevrolet~Equinox~AWD LT~SUV~30695.0
+new~2017~Chevrolet~Impala~LS~CAR~27492.0
+new~2017~Chevrolet~Malibu~1LS~CAR~24425.0
+new~2017~Chevrolet~Malibu~1LS~CAR~24445.0
+new~2017~Chevrolet~Malibu~1LS~CAR~23519.0
+new~2017~Chevrolet~Malibu~Hybrid~CAR~28418.0
+new~2017~Chevrolet~Malibu~Premier~CAR~35850.0
+new~2017~Chevrolet~Silverado 1500~Regular Cab Standard Box 2-Wheel Drive WT~TRUCK~20618.0
+new~2017~Chevrolet~Silverado 1500~Regular Cab Long Box 2-Wheel Drive WT~TRUCK~33415.0
+new~2017~Chevrolet~Silverado 1500~Regular Cab Standard Box 4-Wheel Drive WT~TRUCK~35222.0
+new~2017~Chevrolet~Silverado 1500~Regular Cab Long Box 4-Wheel Drive WT~TRUCK~35513.0
+new~2017~Chevrolet~Silverado 1500~Double Cab Standard Box 4-Wheel Drive LT Z71~TRUCK~42823.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~47335.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~46401.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~46501.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~46501.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~46501.0
+new~2017~Chevrolet~Silverado 1500~Double Cab Standard Box 4-Wheel Drive LTZ~TRUCK~49441.0
+new~2017~Chevrolet~Silverado 1500~Double Cab Standard Box 4-Wheel Drive LTZ~TRUCK~49899.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LTZ~TRUCK~51108.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LTZ~TRUCK~51565.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LTZ~TRUCK~52028.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive High Country~TRUCK~53717.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~53717.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive High Country~TRUCK~55623.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive High Country~TRUCK~56823.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive High Country~TRUCK~56934.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive High Country~TRUCK~57931.0
+new~2017~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT Z71~TRUCK~66815.0
+new~2017~Chevrolet~Silverado 2500HD~Crew Cab Standard Box 4-Wheel Drive Work Truck~TRUCK~42037.0
+new~2017~Chevrolet~Silverado 2500HD~Crew Cab Standard Box 4-Wheel Drive Work Truck~TRUCK~42037.0
+new~2017~Chevrolet~Silverado 2500HD~Crew Cab Standard Box 4-Wheel Drive Work Truck~TRUCK~53630.0
+new~2017~Chevrolet~Silverado 2500HD~Crew Cab Standard Box 4-Wheel Drive LT~TRUCK~49820.0
+new~2017~Chevrolet~Sonic~Sedan LS Auto~CAR~16778.0
+new~2017~Chevrolet~Sonic~Hatch LT Auto~CAR~19972.0
+new~2017~Chevrolet~Spark~Hatch 1LT (Automatic)~CAR~16481.0
+new~2017~Chevrolet~Suburban~4WD 1500 LT~SUV~65057.0
+new~2017~Chevrolet~Suburban~4WD 1500 Premier~SUV~73925.0
+new~2017~Chevrolet~Suburban~4WD 1500 Premier~SUV~70525.0
+new~2017~Chevrolet~Suburban~4WD 1500 Premier~SUV~71459.0
+new~2017~Chevrolet~Tahoe~4WD LS~SUV~52190.0
+new~2017~Chevrolet~Tahoe~4WD LT~SUV~60985.0
+new~2017~Chevrolet~Tahoe~4WD Premier~SUV~68141.0
+new~2017~Chevrolet~Tahoe~4WD Premier~SUV~68788.0
+new~2017~Chevrolet~Tahoe~4WD Premier~SUV~69653.0
+new~2017~Chevrolet~Traverse~AWD Premier~SUV~47892.0
+new~2017~Chevrolet~Traverse~AWD Premier~SUV~48222.0
+new~2017~Chevrolet~Trax~FWD 4dr LS~SUV~21895.0
+new~2017~Chevrolet~Trax~FWD 4dr LS~SUV~21370.0
+new~2017~GMC~Acadia~AWD SLE-1~SUV~34185.0
+new~2017~GMC~Acadia~AWD SLE-2~SUV~37079.0
+new~2017~GMC~Acadia~AWD SLT-2~SUV~49060.0
+new~2017~GMC~Acadia Limited~AWD Limited~SUV~49364.0
+new~2017~GMC~Acadia Limited~AWD Limited~SUV~49594.0
+new~2017~GMC~Savana Cargo Van~2500 Regular Wheelbase Rear-Wheel Drive~CARGO VAN~31355.0
+new~2017~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~53769.0
+new~2017~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive Denali~TRUCK~55846.0
+new~2017~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~69830.0
+new~2017~GMC~Sierra 2500HD~Crew Cab Standard Box 4-Wheel Drive~TRUCK~42029.0
+new~2017~GMC~Sierra 2500HD~Crew Cab Standard Box 4-Wheel Drive~TRUCK~42395.0
+new~2017~GMC~Sierra 2500HD~Crew Cab Standard Box 4-Wheel Drive~TRUCK~42416.0
+new~2017~GMC~Sierra 2500HD~Crew Cab Standard Box 4-Wheel Drive Denali~TRUCK~68167.0
+new~2017~GMC~Sierra 2500HD~Crew Cab Standard Box 4-Wheel Drive Denali~TRUCK~68449.0
+new~2017~GMC~Sierra 2500HD~Crew Cab Standard Box 4-Wheel Drive Denali~TRUCK~68500.0
+new~2017~GMC~Terrain~FWD SLE-1~SUV~27896.0
+new~2017~GMC~Terrain~FWD SLE-1~SUV~27906.0
+new~2017~GMC~Terrain~FWD SLE-1~SUV~27286.0
+new~2017~GMC~Terrain~AWD SLE-1~SUV~28974.0
+new~2017~GMC~Terrain~AWD SLE-1~SUV~29340.0
+new~2017~GMC~Terrain~AWD SLE-1~SUV~29340.0
+new~2017~GMC~Terrain~AWD SLE-2~SUV~31342.0
+new~2017~GMC~Terrain~AWD SLE-2~SUV~34205.0
+new~2017~GMC~Terrain~AWD SLT~SUV~34345.0
+new~2017~GMC~Terrain~AWD SLT~SUV~34581.0
+new~2017~GMC~Terrain~AWD SLT~SUV~34845.0
+new~2017~GMC~Yukon~4WD 4dr Denali~SUV~70759.0
+new~2018~Chevrolet~Equinox~AWD LT~SUV~32042.0
+new~2018~Chevrolet~Equinox~AWD Premier~SUV~37561.0
+new~2016~Buick~Enclave~Premium AWD~SUV~36995.0
+new~2016~Buick~LaCrosse~FWD Leather~CAR~23995.0
+new~2013~Buick~Encore~Convenience FWD~SUV~18995.0
+new~2017~Chevrolet~Traverse~AWD 1LT~SUV~29950.0
+new~2016~Chevrolet~Impala~1LT~CAR~19950.0
+new~2015~Chevrolet~Colorado~Crew Cab Short Box 2-Wheel Drive Z71~TRUCK~28975.0
+new~2015~Chevrolet~Impala Limited~LT~CAR~15995.0
+new~2015~Chevrolet~Malibu~4dr Sdn LS w/1FL~CAR~17990.0
+new~2015~Chevrolet~Silverado 1500~Double Cab Standard Box 4-Wheel Drive WT~TRUCK~28795.0
+new~2014~Chevrolet~Equinox~AWD 1LT~SUV~18995.0
+new~2014~Chevrolet~Suburban~4WD LTZ~SUV~35900.0
+new~2013~Chevrolet~Malibu~1LTZ~CAR~12995.0
+new~2013~Chevrolet~Suburban~4WD 1500 LT~SUV~35895.0
+new~2015~GMC~Canyon~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~34895.0
+new~2017~Buick~Enclave~Leather AWD~SUV~36600.0
+new~2017~Buick~Enclave~Leather AWD~SUV~38940.0
+new~2017~Buick~Verano~4dr Sdn Sport Touring~CAR~20990.0
+new~2016~Buick~Encore~Sport Touring AWD~SUV~23870.0
+new~2016~Buick~Envision~AWD 4dr Premium II~SUV~37900.0
+new~2016~Buick~Envision~AWD 4dr Premium II~SUV~39900.0
+new~2015~Buick~Regal~Premium I FWD~CAR~21800.0
+new~2014~Buick~LaCrosse~FWD Leather~CAR~15900.0
+new~2014~Buick~Regal~Premium I FWD~CAR~16900.0
+new~2012~Buick~LaCrosse~AWD Premium 1~CAR~21800.0
+new~2007~Buick~Lucerne~4dr Sdn V6 CXL~CAR~8375.0
+new~2006~Buick~Lucerne~4dr Sdn CXL V6~CAR~5900.0
+new~2016~Cadillac~SRX~FWD 4dr Premium Collection~SUV~39800.0
+new~2015~Cadillac~SRX~AWD 4dr Luxury Collection~SUV~33990.0
+new~2010~Cadillac~CTS~3.0L V6 AWD Luxury~CAR~15950.0
+new~2017~Chevrolet~Equinox~AWD LT~SUV~25930.0
+new~2017~Chevrolet~Impala~Premier~CAR~27990.0
+new~2017~Chevrolet~Impala~Premier~CAR~28740.0
+new~2017~Chevrolet~Tahoe~4WD LT~SUV~49500.0
+new~2017~Chevrolet~Traverse~AWD 1LT~SUV~31950.0
+new~2017~Chevrolet~Traverse~AWD 2LT~SUV~32930.0
+new~2016~Chevrolet~Camaro~2dr Cpe 1LT~CAR~24700.0
+new~2016~Chevrolet~Cruze~Sedan LT (Automatic)~CAR~16850.0
+new~2016~Chevrolet~Cruze~Sedan Premier~CAR~19500.0
+new~2016~Chevrolet~Cruze Limited~Sedan 1LT (Automatic)~CAR~16900.0
+new~2016~Chevrolet~Equinox~FWD LT~SUV~22900.0
+new~2016~Chevrolet~Equinox~AWD LT~SUV~24500.0
+new~2016~Chevrolet~Equinox~AWD LT~SUV~24800.0
+new~2016~Chevrolet~Impala~LS~CAR~18790.0
+new~2016~Chevrolet~Impala~2LT~CAR~19980.0
+new~2016~Chevrolet~Malibu~LS~CAR~17990.0
+new~2016~Chevrolet~Malibu~1LT~CAR~22980.0
+new~2016~Chevrolet~Malibu Limited~1LT~CAR~16830.0
+new~2016~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT Z71~TRUCK~36900.0
+new~2016~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive High Country~TRUCK~43700.0
+new~2016~Chevrolet~Silverado 2500HD~Crew Cab Standard Box 4-Wheel Drive LTZ~TRUCK~45800.0
+new~2016~Chevrolet~Silverado 2500HD~Crew Cab Standard Box 4-Wheel Drive LTZ~TRUCK~55990.0
+new~2016~Chevrolet~Suburban~4WD 1500 LTZ~SUV~61900.0
+new~2016~Chevrolet~Tahoe~4WD LT~SUV~47950.0
+new~2015~Chevrolet~Colorado~Crew Cab Short Box 2-Wheel Drive Z71~TRUCK~28990.0
+new~2015~Chevrolet~Equinox~FWD 1LT~SUV~18950.0
+new~2015~Chevrolet~Equinox~FWD 1LT~SUV~19900.0
+new~2015~Chevrolet~Equinox~FWD 1LT~SUV~19900.0
+new~2015~Chevrolet~Equinox~AWD LTZ~SUV~28500.0
+new~2015~Chevrolet~Impala Limited~LTZ~CAR~15900.0
+new~2015~Chevrolet~Silverado 1500~Double Cab Standard Box 4-Wheel Drive LT~TRUCK~29900.0
+new~2015~Chevrolet~Tahoe~4WD LTZ~SUV~51900.0
+new~2014~Chevrolet~Equinox~FWD LS~SUV~15780.0
+new~2014~Chevrolet~Express Passenger~3500 Regular Wheelbase Rear-Wheel Drive 1LT~VAN~19940.0
+new~2014~Chevrolet~Impala~LS~CAR~13900.0
+new~2014~Chevrolet~Impala~1LTZ~CAR~17840.0
+new~2013~Chevrolet~Impala~LS~CAR~11900.0
+new~2013~Chevrolet~Tahoe~4WD 1500 LT~SUV~27840.0
+new~2012~Chevrolet~Silverado 1500~Crew Cab Short Box 4-Wheel Drive LT~TRUCK~25900.0
+new~2009~Chevrolet~Aveo~5-door LT 2LT~CAR~4990.0
+new~2008~Chevrolet~Avalanche~4WD Crew Cab LS~TRUCK~18900.0
+new~2008~Chevrolet~Corvette~2dr Cpe~CAR~29800.0
+new~2007~Chevrolet~Tahoe~4WD 4dr 1500 LS~SUV~17500.0
+new~2005~Chevrolet~Malibu~4dr Sdn LT~CAR~0.0
+new~2005~Chevrolet~Silverado 1500~2WD Extended Cab Standard Box Work Truck~TRUCK~8990.0
+new~2002~Chevrolet~Camaro~2dr Cpe Z28~CAR~28000.0
+new~1996~Chevrolet~CAPR~~~18000.0
+new~2017~Chrysler~Pacifica~Touring-L FWD~VAN~29500.0
+new~2016~Chrysler~Town &amp; Country~4dr Wgn Touring~VAN~23900.0
+new~2017~Dodge~Grand Caravan~SXT Wagon~VAN~22900.0
+new~2016~Dodge~Journey~FWD 4dr SXT~SUV~19920.0
+new~2015~Dodge~CARA~~~15950.0
+new~2015~Dodge~Grand Caravan~4dr Wgn R/T~VAN~0.0
+new~2011~Dodge~Durango~AWD 4dr Express~SUV~15990.0
+new~2004~Dodge~Ram 1500~2WD Quad Cab 6.3 Ft Box ST~TRUCK~5990.0
+new~2017~Ford~Escape~SE 4WD~SUV~22800.0
+new~2016~Ford~F-150~4WD SuperCrew 5-1/2 Ft Box XL~TRUCK~31450.0
+new~2016~Ford~Flex~4dr Limited AWD~SUV~27990.0
+new~2016~Ford~Transit Cargo Van~T-250 148&quot; Hi Rf 9000 GVWR Sliding RH Dr~CARGO VAN~28950.0
+new~2015~Ford~Explorer~4WD 4dr XLT~SUV~28750.0
+new~2015~Ford~Focus~4dr Sdn SE~CAR~11800.0
+new~2013~Ford~Mustang~2dr Conv V6~CAR~14800.0
+new~2012~Ford~Super Duty F-250 SRW~4WD Crew Cab 6-3/4 Ft Box XL~TRUCK~41500.0
+new~2001~Ford~Mustang~2dr Cpe GT Bullitt Edition~CAR~13900.0
+new~2001~Ford~Ranger~4WD SuperCab Styleside 6 Ft Box 4.0L XL Fleet~TRUCK~7800.0
+new~1959~Ford~GALAX~~~23000.0
+new~2017~GMC~Acadia Limited~AWD Limited~SUV~42500.0
+new~2017~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~48700.0
+new~2017~GMC~Yukon~4WD 4dr SLT~SUV~51500.0
+new~2016~GMC~Canyon~Extended Cab Long Box 2-Wheel Drive SLE~TRUCK~29500.0
+new~2016~GMC~Sierra 1500~Double Cab Standard Box 4-Wheel Drive SLT~TRUCK~40450.0
+new~2016~GMC~Yukon~4WD 4dr Denali~SUV~54850.0
+new~2016~GMC~Yukon XL~4WD 4dr SLE~SUV~46700.0
+new~2015~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~42500.0
+new~2015~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~42900.0
+new~2015~GMC~Terrain~FWD SLE-2~SUV~19500.0
+new~2015~GMC~Terrain~AWD SLE-1~SUV~22500.0
+new~2015~GMC~Terrain~FWD SLE-1~SUV~0.0
+new~2014~GMC~Sierra 1500~Crew Cab Short Box 4-Wheel Drive SLT~TRUCK~38500.0
+new~2014~GMC~Terrain~FWD SLE-1~SUV~19990.0
+new~2013~GMC~Yukon XL~AWD 4dr 1500 Denali~SUV~31500.0
+new~2013~GMC~Yukon XL~AWD 4dr 1500 Denali~SUV~41700.0
+new~2000~GMC~Sonoma~2WD Regular Cab Short Box SL~TRUCK~5990.0
+new~2011~Honda~Accord Sedan~EX-L V6 Automatic Sedan~CAR~13900.0
+new~2017~Hyundai~Sonata~Sport 2.4L~CAR~24975.0
+new~2016~Hyundai~Elantra~4dr Sdn Man SE~CAR~12990.0
+new~2016~Jeep~Grand Cherokee~4WD 4dr Limited~SUV~34900.0
+new~2016~Jeep~Renegade~4WD 4dr Trailhawk~SUV~22800.0
+new~2010~Jeep~Wrangler Unlimited~4WD 4dr Rubicon~SUV~25930.0
+new~2017~Kia~Sportage~LX AWD~SUV~19950.0
+new~2016~Kia~Optima~4dr Sdn LX~CAR~17830.0
+new~2016~Kia~Soul~5dr Wgn Auto +~CAR~17850.0
+new~2014~Kia~Optima~4dr Sdn EX~CAR~13950.0
+new~2013~Kia~Rio~4dr Sdn Man LX~CAR~8990.0
+new~2012~Kia~Optima~4dr Sdn 2.4L Man LX~CAR~10500.0
+new~2005~MINI~Cooper S Convertible~~CAR~9450.0
+new~2011~Mazda~CX-9~AWD 4dr Touring~SUV~12500.0
+new~2016~Nissan~Frontier~2WD Crew Cab SWB Manual S~TRUCK~21850.0
+new~2013~Nissan~Maxima~4dr Sdn 3.5 S~CAR~18900.0
+new~2012~Nissan~Quest~4dr S~VAN~17840.0
+new~2010~Nissan~Altima~4dr Sdn I4 CVT 2.5~CAR~7800.0
+new~2009~Nissan~Versa~5dr HB I4 Auto 1.8 S~CAR~7500.0
+new~1964~Oldsmobile~DELT88~~CAR~52000.0
+new~1979~Pontiac~TRAN~~~43000.0
+new~2014~Toyota~Camry~4dr Sdn I4 Auto L (Natl) *Ltd Avail*~CAR~14930.0
+new~2013~Toyota~4Runner~4WD 4dr V6 SR5 (Natl)~SUV~23900.0
+new~2013~Toyota~Tacoma~4WD Double Cab Short Bed V6 Manual (Natl)~TRUCK~27920.0
+new~2011~Toyota~Tacoma~4WD Double Cab Short Bed V6 Manual (Natl)~TRUCK~23840.0
+new~2013~Volkswagen~Beetle Coupe~2dr Auto 2.5L Entry PZEV~CAR~10700.0
+new~2008~Volkswagen~New Beetle Coupe~2dr Man S Coupe~CAR~6990.0
